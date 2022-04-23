@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
-
+using Truyen_du_lieu_băng_model.Models;
 namespace Truyen_du_lieu_băng_model.Controllers
 {
     public class HomeController : Controller
