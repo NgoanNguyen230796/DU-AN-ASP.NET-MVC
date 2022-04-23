@@ -1,0 +1,79 @@
+C:\Users\ngoan\Downloads\ứng dụng ASP.NET Core\Truyen du lieu băng model\bin\Truyen du lieu băng model.dll.config
+C:\Users\ngoan\Downloads\ứng dụng ASP.NET Core\Truyen du lieu băng model\bin\Truyen du lieu băng model.dll
+C:\Users\ngoan\Downloads\ứng dụng ASP.NET Core\Truyen du lieu băng model\bin\Truyen du lieu băng model.pdb
+C:\Users\ngoan\Downloads\ứng dụng ASP.NET Core\Truyen du lieu băng model\bin\roslyn\csc.exe
+C:\Users\ngoan\Downloads\ứng dụng ASP.NET Core\Truyen du lieu băng model\bin\roslyn\csc.exe.config
+C:\Users\ngoan\Downloads\ứng dụng ASP.NET Core\Truyen du lieu băng model\bin\roslyn\csc.rsp
+C:\Users\ngoan\Downloads\ứng dụng ASP.NET Core\Truyen du lieu băng model\bin\roslyn\csi.exe
+C:\Users\ngoan\Downloads\ứng dụng ASP.NET Core\Truyen du lieu băng model\bin\roslyn\csi.exe.config
+C:\Users\ngoan\Downloads\ứng dụng ASP.NET Core\Truyen du lieu băng model\bin\roslyn\csi.rsp
+C:\Users\ngoan\Downloads\ứng dụng ASP.NET Core\Truyen du lieu băng model\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ngoan\Downloads\ứng dụng ASP.NET Core\Truyen du lieu băng model\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ngoan\Downloads\ứng dụng ASP.NET Core\Truyen du lieu băng model\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ngoan\Downloads\ứng dụng ASP.NET Core\Truyen du lieu băng model\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ngoan\Downloads\ứng dụng ASP.NET Core\Truyen du lieu băng model\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ngoan\Downloads\ứng dụng ASP.NET Core\Truyen du lieu băng model\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ngoan\Downloads\ứng dụng ASP.NET Core\Truyen du lieu băng model\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ngoan\Downloads\ứng dụng ASP.NET Core\Truyen du lieu băng model\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ngoan\Downloads\ứng dụng ASP.NET Core\Truyen du lieu băng model\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ngoan\Downloads\ứng dụng ASP.NET Core\Truyen du lieu băng model\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ngoan\Downloads\ứng dụng ASP.NET Core\Truyen du lieu băng model\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ngoan\Downloads\ứng dụng ASP.NET Core\Truyen du lieu băng model\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ngoan\Downloads\ứng dụng ASP.NET Core\Truyen du lieu băng model\bin\roslyn\System.AppContext.dll
+C:\Users\ngoan\Downloads\ứng dụng ASP.NET Core\Truyen du lieu băng model\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ngoan\Downloads\ứng dụng ASP.NET Core\Truyen du lieu băng model\bin\roslyn\System.Console.dll
+C:\Users\ngoan\Downloads\ứng dụng ASP.NET Core\Truyen du lieu băng model\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ngoan\Downloads\ứng dụng ASP.NET Core\Truyen du lieu băng model\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ngoan\Downloads\ứng dụng ASP.NET Core\Truyen du lieu băng model\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ngoan\Downloads\ứng dụng ASP.NET Core\Truyen du lieu băng model\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ngoan\Downloads\ứng dụng ASP.NET Core\Truyen du lieu băng model\bin\roslyn\System.IO.Compression.dll
+C:\Users\ngoan\Downloads\ứng dụng ASP.NET Core\Truyen du lieu băng model\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ngoan\Downloads\ứng dụng ASP.NET Core\Truyen du lieu băng model\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ngoan\Downloads\ứng dụng ASP.NET Core\Truyen du lieu băng model\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ngoan\Downloads\ứng dụng ASP.NET Core\Truyen du lieu băng model\bin\roslyn\System.Net.Http.dll
+C:\Users\ngoan\Downloads\ứng dụng ASP.NET Core\Truyen du lieu băng model\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ngoan\Downloads\ứng dụng ASP.NET Core\Truyen du lieu băng model\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ngoan\Downloads\ứng dụng ASP.NET Core\Truyen du lieu băng model\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ngoan\Downloads\ứng dụng ASP.NET Core\Truyen du lieu băng model\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ngoan\Downloads\ứng dụng ASP.NET Core\Truyen du lieu băng model\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ngoan\Downloads\ứng dụng ASP.NET Core\Truyen du lieu băng model\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ngoan\Downloads\ứng dụng ASP.NET Core\Truyen du lieu băng model\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ngoan\Downloads\ứng dụng ASP.NET Core\Truyen du lieu băng model\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ngoan\Downloads\ứng dụng ASP.NET Core\Truyen du lieu băng model\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ngoan\Downloads\ứng dụng ASP.NET Core\Truyen du lieu băng model\bin\roslyn\System.ValueTuple.dll
+C:\Users\ngoan\Downloads\ứng dụng ASP.NET Core\Truyen du lieu băng model\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ngoan\Downloads\ứng dụng ASP.NET Core\Truyen du lieu băng model\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ngoan\Downloads\ứng dụng ASP.NET Core\Truyen du lieu băng model\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ngoan\Downloads\ứng dụng ASP.NET Core\Truyen du lieu băng model\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ngoan\Downloads\ứng dụng ASP.NET Core\Truyen du lieu băng model\bin\roslyn\vbc.exe
+C:\Users\ngoan\Downloads\ứng dụng ASP.NET Core\Truyen du lieu băng model\bin\roslyn\vbc.exe.config
+C:\Users\ngoan\Downloads\ứng dụng ASP.NET Core\Truyen du lieu băng model\bin\roslyn\vbc.rsp
+C:\Users\ngoan\Downloads\ứng dụng ASP.NET Core\Truyen du lieu băng model\bin\roslyn\VBCSCompiler.exe
+C:\Users\ngoan\Downloads\ứng dụng ASP.NET Core\Truyen du lieu băng model\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ngoan\Downloads\ứng dụng ASP.NET Core\Truyen du lieu băng model\bin\Antlr3.Runtime.dll
+C:\Users\ngoan\Downloads\ứng dụng ASP.NET Core\Truyen du lieu băng model\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ngoan\Downloads\ứng dụng ASP.NET Core\Truyen du lieu băng model\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ngoan\Downloads\ứng dụng ASP.NET Core\Truyen du lieu băng model\bin\Newtonsoft.Json.dll
+C:\Users\ngoan\Downloads\ứng dụng ASP.NET Core\Truyen du lieu băng model\bin\System.Web.Helpers.dll
+C:\Users\ngoan\Downloads\ứng dụng ASP.NET Core\Truyen du lieu băng model\bin\System.Web.Mvc.dll
+C:\Users\ngoan\Downloads\ứng dụng ASP.NET Core\Truyen du lieu băng model\bin\System.Web.Optimization.dll
+C:\Users\ngoan\Downloads\ứng dụng ASP.NET Core\Truyen du lieu băng model\bin\System.Web.Razor.dll
+C:\Users\ngoan\Downloads\ứng dụng ASP.NET Core\Truyen du lieu băng model\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ngoan\Downloads\ứng dụng ASP.NET Core\Truyen du lieu băng model\bin\System.Web.WebPages.dll
+C:\Users\ngoan\Downloads\ứng dụng ASP.NET Core\Truyen du lieu băng model\bin\System.Web.WebPages.Razor.dll
+C:\Users\ngoan\Downloads\ứng dụng ASP.NET Core\Truyen du lieu băng model\bin\WebGrease.dll
+C:\Users\ngoan\Downloads\ứng dụng ASP.NET Core\Truyen du lieu băng model\bin\System.Web.Helpers.xml
+C:\Users\ngoan\Downloads\ứng dụng ASP.NET Core\Truyen du lieu băng model\bin\System.Web.Mvc.xml
+C:\Users\ngoan\Downloads\ứng dụng ASP.NET Core\Truyen du lieu băng model\bin\System.Web.Optimization.xml
+C:\Users\ngoan\Downloads\ứng dụng ASP.NET Core\Truyen du lieu băng model\bin\System.Web.Razor.xml
+C:\Users\ngoan\Downloads\ứng dụng ASP.NET Core\Truyen du lieu băng model\bin\System.Web.WebPages.xml
+C:\Users\ngoan\Downloads\ứng dụng ASP.NET Core\Truyen du lieu băng model\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ngoan\Downloads\ứng dụng ASP.NET Core\Truyen du lieu băng model\bin\System.Web.WebPages.Razor.xml
+C:\Users\ngoan\Downloads\ứng dụng ASP.NET Core\Truyen du lieu băng model\bin\Newtonsoft.Json.xml
+C:\Users\ngoan\Downloads\ứng dụng ASP.NET Core\Truyen du lieu băng model\bin\Antlr3.Runtime.pdb
+C:\Users\ngoan\Downloads\ứng dụng ASP.NET Core\Truyen du lieu băng model\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ngoan\Downloads\ứng dụng ASP.NET Core\Truyen du lieu băng model\obj\Debug\Truyen du lieu băng model.csproj.AssemblyReference.cache
+C:\Users\ngoan\Downloads\ứng dụng ASP.NET Core\Truyen du lieu băng model\obj\Debug\Truyen du lieu băng model.csproj.CoreCompileInputs.cache
+C:\Users\ngoan\Downloads\ứng dụng ASP.NET Core\Truyen du lieu băng model\obj\Debug\Truyen du lieu băng model.csproj.CopyComplete
+C:\Users\ngoan\Downloads\ứng dụng ASP.NET Core\Truyen du lieu băng model\obj\Debug\Truyen du lieu băng model.dll
+C:\Users\ngoan\Downloads\ứng dụng ASP.NET Core\Truyen du lieu băng model\obj\Debug\Truyen du lieu băng model.pdb
